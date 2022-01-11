@@ -1,5 +1,6 @@
 #ifndef __HEAD_H
 #define __HEAD_H
+#define MAX 200
 
 #include <iostream>
 #include <string>
@@ -19,6 +20,7 @@ void lender_info();   //借出人信息
 //书籍结构体
 struct book_info
 {
+
     string m_book_name; //书名
     string m_pub_time;  //出版日期
     string m_book_class;//书籍分类
@@ -31,6 +33,12 @@ struct lender
     string m_lender_phone;  //借出人电话
 };
 
+//管理系统结构体
+struct BookManage
+{
+    struct book_info bookArray[MAX];    //保存的书籍数组
+    int m_number;                       //管理系统中书籍数量
+}；
 
 
 #endif
