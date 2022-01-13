@@ -26,10 +26,11 @@
 int main()
 {
     showMenu();//显示界面
-    int func_select = select();//用户选择的功能
+    select();//用户选择的功能
 
 
+    
 
-    system("pause");
+    pause();
     return 0;
 }
