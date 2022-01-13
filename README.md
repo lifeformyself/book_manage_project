@@ -1,4 +1,4 @@
-# book_manage_project
+# book_manage_project v_0.1.1
 
     合作编写一个简单的701图书管理系统 book_manage_project 简称BMP
     参考黑马程序员【通讯录管理系统】
