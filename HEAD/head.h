@@ -10,12 +10,12 @@
 using namespace std;
 
 void showMenu();    //显示菜单
-int select();       //功能选择
+void select();       //功能选择
 void addbook();     //添加图书
 void lender_info();   //借出人信息
-
-
-
+void BookLender();  //借书登记
+void BookComeback();//还书登记
+void DeleteBook(); //删除书籍
 
 //书籍结构体
 struct book_info
