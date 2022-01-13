@@ -11,5 +11,5 @@ CMakeFiles/book_manage_project.dir/book_func/showMenu.cpp.o
  ../HEAD/head.h
  /home/ikaros/book_manage_project/book_func/showMenu.cpp
 CMakeFiles/book_manage_project.dir/main.cpp.o
- ../HEAD/head.h
+ /home/ikaros/book_manage_project/HEAD/head.h
  /home/ikaros/book_manage_project/main.cpp

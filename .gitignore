@@ -1,0 +1,9 @@
+build/book_manage_project
+build/.cmake/api/v1/query/client-integration-vscode/cache-v2
+build/.cmake/api/v1/query/client-integration-vscode/cmakeFiles-v1
+build/.cmake/api/v1/query/client-integration-vscode/codemodel-v2
+build/.cmake/api/v1/query/client-vscode-cmake-lite/query.json
+build/CMakeFiles/book_manage_project.dir/CXX.includecache
+build/CMakeFiles/book_manage_project.dir/depend.internal
+build/CMakeFiles/book_manage_project.dir/main.cpp.o
+build/CMakeFiles/book_manage_project.dir/book_func/book_registration.cpp.o

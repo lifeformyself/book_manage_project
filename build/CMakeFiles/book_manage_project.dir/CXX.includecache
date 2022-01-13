@@ -14,7 +14,27 @@ string
 unistd.h
 -
 
+/home/ikaros/book_manage_project/HEAD/head.h
+iostream
+-
+string
+-
+unistd.h
+-
+
 /home/ikaros/book_manage_project/book_func/book_registration.cpp
 head.h
 /home/ikaros/book_manage_project/book_func/head.h
+
+/home/ikaros/book_manage_project/book_func/select.cpp
+head.h
+/home/ikaros/book_manage_project/book_func/head.h
+
+/home/ikaros/book_manage_project/book_func/showMenu.cpp
+head.h
+/home/ikaros/book_manage_project/book_func/head.h
+
+/home/ikaros/book_manage_project/main.cpp
+HEAD/head.h
+/home/ikaros/book_manage_project/HEAD/head.h
 
