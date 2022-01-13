@@ -21,7 +21,7 @@
     【注意2：提交时尽量写清楚改动内容】
 */
 
-#include "head.h"
+#include "HEAD/head.h"
 
 int main()
 {
