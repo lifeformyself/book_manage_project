@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../HEAD/head.h
+iostream
+-
+string
+-
+unistd.h
+-
+
+/home/ikaros/book_manage_project/book_func/book_registration.cpp
+head.h
+/home/ikaros/book_manage_project/book_func/head.h
+

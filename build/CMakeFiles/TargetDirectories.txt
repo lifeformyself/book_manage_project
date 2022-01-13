@@ -1,0 +1,3 @@
+/home/ikaros/book_manage_project/build/CMakeFiles/edit_cache.dir
+/home/ikaros/book_manage_project/build/CMakeFiles/rebuild_cache.dir
+/home/ikaros/book_manage_project/build/CMakeFiles/book_manage_project.dir
