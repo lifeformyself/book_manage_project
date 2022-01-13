@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # book_manage_project ver_0.1.1
+=======
+
+>>>>>>> 2c3532b1c9d0e8c3e5bf68faed41d8879423aaa3
 
     合作编写一个简单的701图书管理系统 book_manage_project 简称BMP
     参考黑马程序员【通讯录管理系统】
