@@ -25,7 +25,6 @@
 
 int main()
 {
-    showMenu();//显示界面
     select();//用户选择的功能
 
 

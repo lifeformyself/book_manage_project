@@ -4,10 +4,17 @@ void select()
 {
 	while (1)
 	{
+		system("cls");
 		showMenu();
 		cout << "请选择对应功能的标号" << endl;
 		int i = 0;
 		cin >> i;
+		if (cin.fail())
+		{
+			cout << "请不要输入奇怪的玩意儿" << endl;
+			pause();
+			continue;
+		}
 		switch (i)
 		{
 		case 1:
@@ -32,6 +39,7 @@ void select()
 			return;
 		default:
 			cout << "无效的指令" << endl;
+			pause();
 			break;
 			system("cls");
 		}
